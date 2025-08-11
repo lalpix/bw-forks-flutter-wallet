@@ -19,8 +19,5 @@ dev_dependencies:
 flutter:
   plugin:
     platforms:
-      android:
-        package: com.vicoaguado.flutter_wallet
-        pluginClass: FlutterWalletPlugin
       ios:
         pluginClass: FlutterWalletPlugin
